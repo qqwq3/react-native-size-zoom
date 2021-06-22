@@ -1,0 +1,24 @@
+{
+  "name": "react-native-size-zoom",
+  "version": "1.0.0",
+  "description": "Mobile app font or width,height,spaceing and other scaling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqwq3/react-native-size-zoom.git"
+  },
+  "keywords": [
+    "js",
+    "javaScript",
+    "react-native"
+  ],
+  "author": "leehormone@yeah.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqwq3/react-native-size-zoom/issues"
+  },
+  "homepage": "https://github.com/qqwq3/react-native-size-zoom#readme"
+}
