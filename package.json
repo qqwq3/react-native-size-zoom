@@ -1,8 +1,8 @@
 {
   "name": "react-native-size-zoom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mobile app font or width,height,spaceing and other scaling",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

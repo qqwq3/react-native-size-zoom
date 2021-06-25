@@ -14,7 +14,7 @@ import {
   pixelRatio,
   scaleSize,
   scaleFont,
-} from 'react-native-size-zoom';
+} from 'react-native-size-zoom/index';
 
 interface Props {}
 interface State {}
